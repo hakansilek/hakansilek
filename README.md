@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m a software engineer, currently working at [Corbone](https://corbone.com)
+
+- 🖥 Experience with Mobile Applications development technologies and environments
+
+- ✍️ Writing tech [blog posts](https://hakansilek.com)
 
 <!--
 **hakansilek/hakansilek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
