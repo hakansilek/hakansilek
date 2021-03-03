@@ -1,5 +1,5 @@
-### Hi there 👋 My name is [Hakan]()
-- 🔭 I’m a software engineer, currently working at [Corbone](https://www.linkedin.com/in/hakansilek/)
+### Hi there 👋 My name is [Hakan](https://www.linkedin.com/in/hakansilek/)
+- 🔭 I’m a software engineer, currently working at Corbone
 
 - 🖥 Experience with Mobile Applications development technologies and environments
 
