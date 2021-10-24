@@ -3,8 +3,6 @@
 
 - 🖥 Experience with Mobile Applications development technologies and environments
 
-- ✍️ Writing tech [blog posts](https://hakansilek.com)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakansilek&theme=calm)
 
 <!--
